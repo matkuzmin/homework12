@@ -11,6 +11,7 @@ public class Author {
     public String getAuthor() {
         return author;
     }
+
     public void setAuthor() {
         this.author = author;
     }
