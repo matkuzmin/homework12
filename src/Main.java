@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Год: " + kep.getYear());
         kep.setYear(1840);
         System.out.println("Год изменен на: " + kep.getYear());
+        System.out.println(voina.toString());
     }
 }
